@@ -1,7 +1,7 @@
-scikit-learn==1.4.2
-rank-bm25==0.2.2
 numpy==1.26.4
 scipy==1.11.4
+scikit-learn==1.4.2
+rank-bm25==0.2.2
 sentence-transformers==2.7.0
 gensim==4.3.2
 torch>=2.4.0
@@ -14,10 +14,10 @@ ipykernel
 nltk
 pyyaml
 langchain_google_genai
+langchain
 langchain-openai
 langchain-groq
 langchain-openrouter
 langchain-huggingface
 langchain-anthropic
 langchain-ollama
-pyyaml
